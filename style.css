@@ -78,7 +78,7 @@
     background-color: #5bc1a5;
 }
 .nav-item a {
-    color: white; /* Keep the text color white */
+    color: rgb(19, 14, 14); /* Keep the text color white */
     text-decoration: none; /* Remove the default underline */
 }
 
