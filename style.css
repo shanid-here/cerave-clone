@@ -77,4 +77,13 @@
 .color{
     background-color: #5bc1a5;
 }
+.nav-item a {
+    color: white; /* Keep the text color white */
+    text-decoration: none; /* Remove the default underline */
+}
+
+.nav-item a:hover {
+    text-decoration: underline; /* Add underline on hover */
+    color: #5bc1a5; /* Optional: Change color on hover to match your theme */
+}
 
